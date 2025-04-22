@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Professional**, a
 - 🔸 **API Hacking & Android Mobile App Security**  
 - 🔸 **Back-end Development** – Node.js, Microservices, Auth, MySQL  
 - 🔸 **Compliance & Security Assessment** – PCI DSS, SWIFT, ISO 27001  
-- 🔸 **Secure Architecture Design** – Tokenization, System Hardening, Change Management
+- 🔸 **Secure Architecture Design** – Threat Modeling, Zero Trust Principles, Network Segmentation
 
 ---
 
