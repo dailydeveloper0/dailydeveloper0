@@ -47,7 +47,6 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Professional**, a
 ## 🛡 Certifications & Training
 
 - ✅ **API Penetration Testing** – APIsec University  
-- ✅ **Cloud Security Program** – Cyversity  
 - ✅ Ongoing Courses in Ethical Hacking, API Security, and Mobile App Hacking
 
 ---
