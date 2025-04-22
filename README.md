@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Professional**, a
 
 ## 📘 Academic Background
 
-- 🎓 MSc in Computer Science (Specialization: Computer & Network Security)
+- 🎓 MSc in Computer Science (Specialization: Computer Network & Security)
 - 📄 Thesis: _“Application-Layer Malware Detection Using a Hybrid Deep Learning Approach”_  
   *(Combines CNNs & RNNs for advanced threat detection)*
 
